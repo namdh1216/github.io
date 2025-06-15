@@ -61,3 +61,4 @@ https://www.youtube.com/watch?v=StyljKLvjGg&t=1274s <= 참고영상
 
 코드 설명: HTML5 <video>와 <audio> 요소를 미리 로드하고, JavaScript에서 play()와 pause()를 호출해 프로젝트 전환 시 오디오 트랙을 제어합니다.
 
+https://github.com/namdh1216/github.io
